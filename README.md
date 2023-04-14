@@ -6,9 +6,9 @@ Project :
 - [Coffee Roaster Machine](https://github.com/gitnurrahman/Project-Nurrahman/blob/main/Coffee%20roaster%20machine.rar)
 
 
-<p align="left">
-<a href="https://github.com/gitnurrahman/Project-Nurrahman">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitnurrahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitnurrahman&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/gitnurrahman/github-readme-stats">
+  <img align="Top" src="https://github-readme-stats.vercel.app/api?username=gitnurrahman&show_icons=true&theme=radical" />
 </a>
-</p>
+<a href="https://github.com/gitnurrahman/github-readme-stats">
+  <img align="Bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnurrahman" />
+</a>
